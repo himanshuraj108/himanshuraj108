@@ -10,6 +10,16 @@
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshuraj108/himanshuraj108/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshuraj108/himanshuraj108/output/github-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/himanshuraj108/himanshuraj108/output/github-snake.svg" width="100%"/>
+  </picture>
+</div>
+
 ## About Me
 
 ```yaml
