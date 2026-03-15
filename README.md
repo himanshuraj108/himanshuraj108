@@ -18,18 +18,17 @@
 │  location    : Punjab, India                                    │
 │  university  : Lovely Professional University                   │
 │  degree      : B.Tech — Computer Science & Engineering          │
-│  cgpa        : 7.09                                             │
 │                                                                 │
 │  currently   : Building full-stack web applications             │
 │              : Mastering System Design & DSA                    │
 │              : Exploring Android Development (Kotlin)           │
 │              : Deploying AI-powered products to production      │
 │                                                                 │
-│  strengths   : 5-Star C++ & Java on HackerRank                 │
+│  strengths   : 5-Star C++ & Java on HackerRank                  │
 │              : 931+ GitHub contributions in the last year       │
 │              : REST APIs, WebSockets & real-time systems        │
 │                                                                 │
-│  ask_me     : MERN Stack, Next.js, DSA, Cloud (AWS/Vercel)     │
+│  ask_me     : MERN Stack, Next.js, DSA, Cloud (AWS/Vercel)      │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
