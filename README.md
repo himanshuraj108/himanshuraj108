@@ -35,7 +35,7 @@
 │              : Deploying AI-powered products to production      │
 │                                                                 │
 │  strengths   : 5-Star C++ & Java on HackerRank                  │
-│              : 931+ GitHub contributions in the last year       │
+│              : 950+ GitHub contributions in the last year       │
 │              : REST APIs, WebSockets & real-time systems        │
 │                                                                 │
 │  ask_me     : MERN Stack, Next.js, DSA, Cloud (AWS/Vercel)      │
